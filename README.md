@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+<h1>All My Python Programs</h1>
+<pre>
+This is where I put my all python programs.
+I will try to put them in order but I can't guarantee.
 
-You can use the [editor on GitHub](https://github.com/prashantmoroliya/All-My-Python-Programs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website is only for educational purpose only.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I learn from different websites and then I try to code them.
 
-### Markdown
+**If you find some codes exactly same with codes from other websites, I don't know anything**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Enjoy my programs and learn them.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prashantmoroliya/All-My-Python-Programs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All my python programs are created in jupyter notebook.
+</pre>
